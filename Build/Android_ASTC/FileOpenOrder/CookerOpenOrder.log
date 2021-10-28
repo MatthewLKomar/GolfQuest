@@ -1,0 +1,462 @@
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/F_DirectionTracker.uasset" 0
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Geometry/Meshes/CubeMaterial.uasset" 1
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Geometry/Meshes/1M_Cube.uasset" 2
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/F_AssetTableRow.uasset" 3
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SideTwoLP_OcclusionRoughnessMetallic.uasset" 4
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SideTwoLP_Normal.uasset" 5
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SideTwoLP_Mask.uasset" 6
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SideTwoLP_BaseColor.uasset" 7
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SideOneLP_Normal.uasset" 8
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SideOneLP_Mask.uasset" 9
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SideOneLP_BaseColor.uasset" 10
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SideOne_OcclusionRoughnessMetallic.uasset" 11
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Materials_Minigolf/M_GolfTilesMaster.uasset" 12
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/MI_GolfTilesMaster.uasset" 13
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_SideTwo.uasset" 14
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_SideTwo.uasset" 15
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SideThreeLP_OcclusionRoughnessMetallic.uasset" 16
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SideThreeLP_Normal.uasset" 17
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SideThreeLP_Mask.uasset" 18
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SideThreeLP_BaseColor.uasset" 19
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_SideThree.uasset" 20
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_SideThree.uasset" 21
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_Hole_OcclusionRoughnessMetallic.uasset" 22
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_Hole_Normal.uasset" 23
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_Hole_Mask.uasset" 24
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_Hole_BaseColor.uasset" 25
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_Hole.uasset" 26
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Hole.uasset" 27
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_HardEdgeLP_OcclusionRoughnessMetallic.uasset" 28
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_HardEdgeLP_Normal.uasset" 29
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_HardEdgeLP_Mask.uasset" 30
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_HardEdgeLP_BaseColor.uasset" 31
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_HardEdge.uasset" 32
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_HardEdge.uasset" 33
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/DefaultPackTable.uasset" 34
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/AssetDataTable.uasset" 35
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/E_NodeType.uasset" 36
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/M_TestGen.uasset" 37
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/MI_TestGen_2.uasset" 38
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Texture/FPH_SSS-Nail-Palm_Mask.uasset" 39
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Texture/FPH_Normals.uasset" 40
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Texture/FPH_MetalSmooth.uasset" 41
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Texture/FPH_Albedo.uasset" 42
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Materials/Hand_Mat_Master.uasset" 43
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Materials/Instances/Hand_MatInst_Tan.uasset" 44
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 45
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Skeleton/FirstPersonHand_Skeleton.uasset" 46
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Mesh/FirstPersonHand.uasset" 47
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Geometry/Meshes/1M_Cube_Chamfer.uasset" 48
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Geometry/Meshes/TemplateFloor.uasset" 49
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Geometry/Meshes/AlphaLevelMerged/T_PROXY_SM_AlphaLevelMerged_Normal.uasset" 50
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Geometry/Meshes/AlphaLevelMerged/T_PROXY_SM_AlphaLevelMerged_Diffuse.uasset" 51
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 52
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 53
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 54
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 55
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 56
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Geometry/Meshes/AlphaLevelMerged/M_PROXY_SM_AlphaLevelMerged.uasset" 57
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/lambert1.uasset" 58
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/GQ_TilesWithHoles_MiniGolf_pCube1e_hole.uasset" 59
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/GQ_TilesWithHoles_MiniGolf_pCubee_hole1.uasset" 60
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/GQ_TilesWithHoles_MiniGolf_pCube_hole.uasset" 61
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/GQ_TilesWithHoles_MiniGolf_pCube_hole1.uasset" 62
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/MiniGolf_pCube2.uasset" 63
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/MiniGolf_pCube3.uasset" 64
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Materials_Minigolf/M_Ball_Physics.uasset" 65
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_Minigolf_Misc/T_Ball_OcclusionRoughnessMetallic.uasset" 66
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_Minigolf_Misc/T_Ball_Normal.uasset" 67
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_Minigolf_Misc/T_Ball_BaseColor.uasset" 68
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Materials_Minigolf/M_Ball.uasset" 69
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/MI_Ball.uasset" 70
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_BlockerLP_OcclusionRoughnessMetallic.uasset" 71
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_BlockerLP_Normal.uasset" 72
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_BlockerLP_Mask.uasset" 73
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_BlockerLP_BaseColor.uasset" 74
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_Blocker.uasset" 75
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Blocker01.uasset" 76
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_BlockerMiddle_OcclusionRoughnessMetallic.uasset" 77
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_BlockerMiddle_Normal.uasset" 78
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_BlockerMiddle_Mask.uasset" 79
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_BlockerMiddle_BaseColor.uasset" 80
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_BlockerMiddle.uasset" 81
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_BlockerMiddle.uasset" 82
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_BlockerMiddle02_OcclusionRoughnessMetallic.uasset" 83
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_BlockerMiddle02_Normal.uasset" 84
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_BlockerMiddle02_Mask.uasset" 85
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_BlockerMiddle02_BaseColor.uasset" 86
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_BlockerMiddle02.uasset" 87
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_BlockerMiddle02.uasset" 88
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_Blocker_02LP_OcclusionRoughnessMetallic.uasset" 89
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_Blocker_02LP_Normal.uasset" 90
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_Blocker02LP_Mask.uasset" 91
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_Blocker02LP_BaseColor.uasset" 92
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_Blocker02.uasset" 93
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Blocker_02.uasset" 94
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_Blocker_03_OcclusionRoughnessMetallic.uasset" 95
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_Blocker_03_Normal.uasset" 96
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_Blocker03_Mask.uasset" 97
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_Blocker03_BaseColor.uasset" 98
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_Blocker03.uasset" 99
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Blocker_03.uasset" 100
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_FlatAndWood_OcclusionRoughnessMetallic.uasset" 101
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_FlatAndWood_Normal.uasset" 102
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_FlatAndWood_Mask.uasset" 103
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_FlatAndWood_BaseColor.uasset" 104
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_FlatAndWood.uasset" 105
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Flat.uasset" 106
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_FreeBlocker.uasset" 107
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_FreeBlocker02.uasset" 108
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_Minigolf_Misc/T_BlockersAndTubesLP_OcclusionRoughnessMetallic.uasset" 109
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_Minigolf_Misc/T_BlockersAndTubesLP_Normal.uasset" 110
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_Minigolf_Misc/T_BlockersAndTubesLP_BaseColor.uasset" 111
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Materials_Minigolf/M_BlockersAndTubes.uasset" 112
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_FreeBlocker03.uasset" 113
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_FreeBlocker04.uasset" 114
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_FreeBlocker05.uasset" 115
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_GoalLP_OcclusionRoughnessMetallic.uasset" 116
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_GoalLP_Normal.uasset" 117
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_GoalLP_Mask.uasset" 118
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_GoalLP_BaseColor.uasset" 119
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_Goal.uasset" 120
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Goal.uasset" 121
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_HardEdgeOpenLP_OcclusionRoughnessMetallic.uasset" 122
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_HardEdgeOpenLP_Normal.uasset" 123
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_HardEdgeOpenLP_Mask.uasset" 124
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_HardEdgeOpenLP_BaseColor.uasset" 125
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_HardEdgeOpen.uasset" 126
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_HardEdgeOpen.uasset" 127
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_RoundEdgeLP_OcclusionRoughnessMetallic.uasset" 128
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_RoundEdgeLP_Normal.uasset" 129
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_RoundEdgeLP_Mask.uasset" 130
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_RoundEdgeLP_BaseColor.uasset" 131
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_RoundEdge.uasset" 132
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_RoundEdge.uasset" 133
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_RoundEdgeOpenLP_OcclusionRoughnessMetallic.uasset" 134
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_RoundEdgeOpenLP_Normal.uasset" 135
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_RoundEdgeOpenLP_Mask.uasset" 136
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_RoundEdgeOpenLP_BaseColor.uasset" 137
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_RoundEdgeOpen.uasset" 138
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_RoundEdgeOpen.uasset" 139
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_SideOne.uasset" 140
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_SideOne.uasset" 141
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SlopeSoftLP_OcclusionRoughnessMetallic.uasset" 142
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SlopeSoftLP_Normal.uasset" 143
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SlopeSoftLP_Mask.uasset" 144
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SlopeSoftLP_BaseColor.uasset" 145
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_SlopeSoft.uasset" 146
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SlopeSide_OcclusionRoughnessMetallic.uasset" 147
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SlopeSide_Normal.uasset" 148
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SlopeSide_BaseColor.uasset" 149
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Materials_Minigolf/M_UnderSide.uasset" 150
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_SlopeSoft.uasset" 151
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SlopeLP_OcclusionRoughnessMetallic.uasset" 152
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_SlopeLP_Normal.uasset" 153
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_Slope_Mask.uasset" 154
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_MiniGolf_Tiles/T_Slope_BaseColor.uasset" 155
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/Individual_Blockers/MI_Slope.uasset" 156
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_SlopeStraight.uasset" 157
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Tube01.uasset" 158
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Tube02.uasset" 159
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Tube03.uasset" 160
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Wood01.uasset" 161
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Wood02.uasset" 162
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Wood03.uasset" 163
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Wood04.uasset" 164
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_WoodShort01.uasset" 165
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_WoodShort02.uasset" 166
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Geometry/Meshes/AlphaLevelMerged/T_PROXY_SM_AlphaLevelMerged_Mat.uasset" 167
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Geometry/Meshes/AlphaLevelMerged/SM_PROXY_SM_AlphaLevelMerged.uasset" 168
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Blueprints/BP_AlphaCourse.uasset" 169
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 170
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 171
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 172
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 173
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 174
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 175
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Blueprints/BP_Ball.uasset" 176
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 177
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 178
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/MI_TestGen_1.uasset" 179
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/MiniGolf_pCube8.uasset" 180
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/MiniGolf_pCube16.uasset" 181
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/MiniGolf_pCube11.uasset" 182
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/SimplePackTable.uasset" 183
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/Z-Curve.uasset" 184
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Blueprints/BP_GolfState.uasset" 185
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Blueprints/BP_HoleTrigger.uasset" 186
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/F_3DArray.uasset" 187
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/BPF_3DArrayUtils.uasset" 188
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/BP_Generator.uasset" 189
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Blueprints/BP_AlphaLevelPositioning.uasset" 190
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Blueprints/BP_ScoreTracking.uasset" 191
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_Minigolf_Misc/T_Club_OcclusionRoughnessMetallic.uasset" 192
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_Minigolf_Misc/T_Club_Normal.uasset" 193
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_Minigolf_Misc/T_Club_Mask.uasset" 194
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Textures_Minigolf/Textures_Minigolf_Misc/T_Club_BaseColor.uasset" 195
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Materials_Minigolf/M_Club.uasset" 196
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Material_Instances_Minigolf/MI_Club.uasset" 197
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Club.uasset" 198
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 199
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 200
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Anim/FPH_PoseSpread.uasset" 201
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Anim/FPH_PoseFist.uasset" 202
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Anim/3FingerGrip.uasset" 203
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Anim/BS_Grip.uasset" 204
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Anim/FPH_PoseAoK.uasset" 205
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Anim/BS2_Grip.uasset" 206
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/CustomHand/Anim/BP_Hand_Anim.uasset" 207
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/FirstPerson/Hand_MatInst_Tan.uasset" 208
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/FirstPerson/FirstPersonHand_PhysicsAsset.uasset" 209
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/FirstPerson/FirstPersonHand_Skeleton.uasset" 210
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/FirstPerson/FirstPersonHand.uasset" 211
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Blueprints/BP_VRChar.uasset" 212
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Blueprints/BP_GolfClubGameModeBase.uasset" 213
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/Meshes_Minigolf/SM_Ball.uasset" 214
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Blueprints/BP_TestBall.uasset" 215
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Blueprints/BP_WinScreen.uasset" 216
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Music/LevelTheme.uasset" 217
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Music/LevelTheme_Cue.uasset" 218
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Music/MainMenuTheme.uasset" 219
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Music/MainMenuTheme_Cue.uasset" 220
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 221
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 222
+"../../../Engine/Content/BasicShapes/Cone.uasset" 223
+"../../../Engine/Content/BasicShapes/Cube.uasset" 224
+"../../../Engine/Content/BasicShapes/Plane.uasset" 225
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 226
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 227
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 228
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 229
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 230
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 231
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 232
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 233
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 234
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 235
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 236
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 237
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 238
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 239
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 240
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 241
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 242
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 243
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 244
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 245
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 246
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 247
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 248
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 249
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 250
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 251
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 252
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 253
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 254
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 255
+"../../../Engine/Content/EditorResources/S_Note.uasset" 256
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 257
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 258
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 259
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 260
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 261
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 262
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 263
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 264
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 265
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 266
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 267
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 268
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 269
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 270
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 271
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 272
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 273
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 274
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 275
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 276
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 277
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 278
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 279
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 280
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 281
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 282
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 283
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 284
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 285
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 286
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 287
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 288
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 289
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 290
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 291
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 292
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 293
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 294
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 295
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 296
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 297
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 298
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 299
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 300
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 301
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 302
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 303
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 304
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 305
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 306
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 307
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 308
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 309
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 310
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 311
+"../../../Engine/Content/EngineResources/Black.uasset" 312
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 313
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 314
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 315
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 316
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 317
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 318
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 319
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 320
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 321
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 322
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 323
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 324
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 325
+"../../../Engine/Content/EngineSounds/Master.uasset" 326
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 327
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 328
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 329
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 330
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 331
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 332
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 333
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 334
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 335
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 336
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 337
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 338
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 339
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 340
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 341
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 342
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 343
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 344
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 345
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 346
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 347
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 348
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 349
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 350
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 351
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 352
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 353
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 354
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 355
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 356
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 357
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 358
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 359
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 360
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 361
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 362
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 363
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 364
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 365
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 366
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 367
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 368
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 369
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 370
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 371
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 372
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 373
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 374
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 375
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 376
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 377
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 378
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 379
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 380
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 381
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 382
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 383
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 384
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 385
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 386
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 387
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 388
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 389
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 390
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 391
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 392
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 393
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/ProceduralTestWorld_BuiltData.uasset" 394
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Assets/Modular_MiniGolf/GQ_TilesWithHoles_MiniGolf_pCubee_hole.uasset" 395
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/ScaledDownTable.uasset" 396
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/ProceduralTestWorld.umap" 397
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 398
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 399
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 400
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 401
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Materials/M_BaseMaterial.uasset" 402
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Materials/MI_BaseMaterial2.uasset" 403
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Materials/MI_BaseMaterial3.uasset" 404
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Meshes/SM_FatCylinder.uasset" 405
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Meshes/BeaconDirection.uasset" 406
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 407
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Materials/TeleportMCP.uasset" 408
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 409
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Materials/MF_OccludedPixels.uasset" 410
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Materials/M_TeleportPreviews.uasset" 411
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Materials/MI_TeleportCylinderPreview.uasset" 412
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 413
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 414
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 415
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Materials/M_ArcEndpoint.uasset" 416
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset" 417
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 418
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 419
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 420
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 421
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 422
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset" 423
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" 424
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Materials/MI_SmallCubes.uasset" 425
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 426
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 427
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset" 428
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Meshes/BeamMesh.uasset" 429
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Meshes/1x1_cube.uasset" 430
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 431
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 432
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 433
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Mannequin/Character/Materials/M_HandMat.uasset" 434
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 435
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 436
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 437
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Materials/MI_ChaperoneOutline.uasset" 438
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Materials/M_SplineArcMat.uasset" 439
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 440
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Mannequin/Animations/MannequinHand_Right_Open.uasset" 441
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 442
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 443
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Mannequin/Animations/RightGrip_BS.uasset" 444
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Mannequin/Animations/RightHand_AnimBP.uasset" 445
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 446
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 447
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" 448
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Materials/GenericHMDMaterial.uasset" 449
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/NonBPAssets/Meshes/GenericHMD.uasset" 450
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset" 451
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Blueprints/SM_Hole_Blueprint.uasset" 452
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/Maps/StartupMap.umap" 453
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Maps/AlphaMap_BuiltData.uasset" 454
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/ProceduralTest/BP_GeneratorDynamicBounds.uasset" 455
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Maps/AlphaMap.umap" 456
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Maps/MatthewWorld_BuiltData.uasset" 457
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/VirtualRealityBP/Blueprints/BP_PickupCube_2.uasset" 458
+"../../../../../../Users/DHern/Documents/Unreal Projects/GolfQuest/Content/_Maps/MatthewWorld.umap" 459
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 460
+"../../../Engine/Content/Maps/Entry.umap" 461
