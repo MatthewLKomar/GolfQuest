@@ -25,10 +25,6 @@
 				"Win64",
 				"HoloLens"
 			]
-		},
-		{
-			"Name": "GoogleVRHMD",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
