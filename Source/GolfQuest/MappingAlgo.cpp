@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "GenericPlatform/GenericPlatformMath.h"
 #include "MappingAlgo.h"
+#include "GenericPlatform/GenericPlatformMath.h"
 
 // Sets default values for this component's properties
 UMappingAlgo::UMappingAlgo()
