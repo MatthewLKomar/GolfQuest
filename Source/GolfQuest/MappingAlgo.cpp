@@ -2,6 +2,7 @@
 
 #include "MappingAlgo.h"
 #include "GenericPlatform/GenericPlatformMath.h"
+#include "Containers/UnrealString.h"
 
 // Sets default values for this component's properties
 UMappingAlgo::UMappingAlgo()
@@ -99,6 +100,7 @@ bool UMappingAlgo::isInside(TArray<FVector> polygon, int32 n, FVector p)
         i = next;
     } while (i != 0);
 
+	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Black, FString::Printf(TEXT("ct: %d"), count));
     // Return true if count is odd, false otherwise
     return count & 1; // Same as (count%2 == 1)
 }
@@ -109,27 +111,44 @@ bool UMappingAlgo::isSquareInside(TArray<FVector> c, FVector p) {
     FVector cLL = FVector(p.X, p.Y + tileSize,0); //lower left
     FVector cLR = FVector(p.X + tileSize, p.Y + tileSize, 0);
     int32 cSize = c.Num();
-    return isInside(c, cSize, p) && isInside(c, cSize, cUR)
-        && isInside(c, cSize, cLL) && isInside(c, cSize, cLR);
+
+	//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Purple, FString::Printf(TEXT("Included: %s"), *(p.ToString())));
+	//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Purple, FString::Printf(TEXT("Poly: %s"), *(c[0].ToString())));
+	return isInside(c, cSize, p);
+		//&& isInside(c, cSize, cUR)
+        //&& isInside(c, cSize, cLL) && isInside(c, cSize, cLR);
 }
 
 
 TArray<FVector> UMappingAlgo::GeneratePoints(TArray<FVector> Outline)
 {//there HAS to be a more efficient way of doing this.
     //Map Outline, get min and max values of the x,y values 
-    for (int32 i = 0; i < MapOutline.Num(); i++)
+	//MapOutline = Outline;
+	if (GEngine)
+		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, FString::Printf(TEXT("Map Size: %d"), Outline.Num()));
+    for (int32 i = 0; i < Outline.Num(); i++)
     {
-        if (MapOutline[i].X > highestX) highestX = MapOutline[i].X;
-        if (MapOutline[i].Y > highestY) highestY = MapOutline[i].Y;
-        if (MapOutline[i].X < lowestX) lowestX = MapOutline[i].X;
-        if (MapOutline[i].Y < lowestY) lowestY = MapOutline[i].Y;
+		//GEngine->AddOnScreenDebugMessage(200, 15.0f, FColor::Red, FString::Printf(TEXT("Current: %s"), *(Outline[2].ToString())));
+		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Red, FString::Printf(TEXT("i: %d"), i));
+
+        if (Outline[i].X > highestX*tileSize) highestX = Outline[i].X/ tileSize;
+        if (Outline[i].Y > highestY*tileSize) highestY = Outline[i].Y/ tileSize;
+        if (Outline[i].X < lowestX*tileSize) lowestX = Outline[i].X/ tileSize;
+        if (Outline[i].Y < lowestY*tileSize) lowestY = Outline[i].Y/ tileSize;
+
     }
+
+	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Green, FString::Printf(TEXT("hx %d, hy %d, lx %d, ly %d"), highestX, highestY, lowestX, lowestY));
+
     //Get all possible point coords 
-    for (int row = lowestY; row < highestY; row += tileSize) {
-        for (int col = lowestX; col < highestX; col += tileSize) {
-            FVector p = FVector(col, row, 0);
+    for (int row = lowestY; row < highestY; row += 1) {
+        for (int col = lowestX; col < highestX; col += 1) {
+            FVector p = FVector(col*tileSize, row*tileSize, 0);
             //Are we inside the shape?
-            if (isSquareInside(MapOutline, p)) {
+			//GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::White, FString::Printf(TEXT("Current: %s"), *(p.ToString())));
+
+            if (isSquareInside(Outline, p)) {
+				GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::White, FString::Printf(TEXT("Included: %s"), *(p.ToString())));
                 newCoordinates.Add(p);
             }
         }
