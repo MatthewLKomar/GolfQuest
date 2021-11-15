@@ -26,15 +26,17 @@ public:
 	
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
 		TArray<FVector> MapOutline;
+	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+		TArray<FVector> newCoordinates;
 	//Tile set ups
 	
 	int tileSize = 40; //10 by 10 pixels
-	TArray<FVector> newCoordinates;
+	
 	//Bounds
 	int highestX = 0;
 	int highestY = 0;
 	int lowestX = 99999;
 	int lowestY = 99999;
 	// Define Infinite (Using INT_MAX caused overflow problems)
-	int inf = 10000;
+	int inf = 100000000;
 };
